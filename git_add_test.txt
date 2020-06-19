@@ -1,0 +1,3 @@
+delete meeber.py
+
+after this nopt add..
